@@ -1,8 +1,10 @@
-package com.example.testadmin;
+package com.example.testadmin.Vista;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import com.example.testadmin.R;
 
 public class MainActivity extends AppCompatActivity {
 
